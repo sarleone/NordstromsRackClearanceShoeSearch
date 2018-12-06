@@ -20,7 +20,7 @@ nightmare
   .wait(50)
   // Screenshot of selecting a size shoe
   .screenshot("2selectSize.png")
-  // Select a shoe size
+  // Select 4th shoe size listed
   .click(".filter__option:nth-of-type(4)")
   // Make sure the page is loaded before taking the screenshot
   .wait(2000)
