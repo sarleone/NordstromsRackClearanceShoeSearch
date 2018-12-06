@@ -6,7 +6,9 @@ An automated test of searching for Clearance Shoe Items on https://www.nordstrom
 Clearance Shoe Search -- Navigating a search for a specific shoe size listed as a clearance item on nordstromrack.com. 
 #### Description: 
 This test uses Nigthmare.js to walk through one of the many ways a user may navigate to finding a bargain in a specific shoe size. 
+
 Preconditions: For this test, the customer is selecting the 4th shoe size listed for clearance items. This can be changed on line 24 of NordstromRackClearanceShoeSearch.js.
+
 Assumtions: 
 1. Chrome browser or supported browser is being used. 
 2. Shoe sizes are listed first in the 'Size' dropbox.
